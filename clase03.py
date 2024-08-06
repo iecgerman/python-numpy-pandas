@@ -1,13 +1,8 @@
 # Curso de Python: NumPy y Pandas para Análisis de Datos
 
-# Arrays en NumPy
+# Dimensiones en NumPy y Pandas: De Escalares a Tensors
 
 !pip install numpy pandas
-
-import numpy as np
-escalar = np.array(42)
-print (type(escalar))
-print(escalar)
 
 import numpy as np
 escalar = np.array(42)
